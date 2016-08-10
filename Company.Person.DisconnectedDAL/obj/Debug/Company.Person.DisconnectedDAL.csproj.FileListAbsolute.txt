@@ -1,0 +1,7 @@
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.DisconnectedDAL\bin\Debug\Company.Person.Shared.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.DisconnectedDAL\bin\Debug\Company.Person.Shared.pdb
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.DisconnectedDAL\bin\Debug\Company.Person.DisconnectedDAL.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.DisconnectedDAL\bin\Debug\Company.Person.DisconnectedDAL.pdb
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.DisconnectedDAL\obj\Debug\Company.Person.DisconnectedDAL.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.DisconnectedDAL\obj\Debug\Company.Person.DisconnectedDAL.pdb
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\company.Person\Company.Person.DisconnectedDAL\obj\Debug\Company.Person.DisconnectedDAL.csprojResolveAssemblyReference.cache

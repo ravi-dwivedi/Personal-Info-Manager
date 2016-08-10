@@ -1,0 +1,12 @@
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.EntityFrameworkDAL\bin\Debug\Company.Person.EntityFrameworkDAL.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.EntityFrameworkDAL\bin\Debug\Company.Person.EntityFrameworkDAL.pdb
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.EntityFrameworkDAL\bin\Debug\Company.Person.Shared.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.EntityFrameworkDAL\bin\Debug\Company.Person.Shared.pdb
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.EntityFrameworkDAL\obj\Debug\Company.Person.EntityFrameworkDAL.csprojResolveAssemblyReference.cache
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.EntityFrameworkDAL\obj\Debug\Company.Person.EntityFrameworkDAL.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.EntityFrameworkDAL\obj\Debug\Company.Person.EntityFrameworkDAL.pdb
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.EntityFrameworkDAL\bin\Debug\Company.Person.EntityFrameworkDAL.dll.config
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.EntityFrameworkDAL\bin\Debug\EntityFramework.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.EntityFrameworkDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.EntityFrameworkDAL\bin\Debug\EntityFramework.xml
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.EntityFrameworkDAL\bin\Debug\EntityFramework.SqlServer.xml

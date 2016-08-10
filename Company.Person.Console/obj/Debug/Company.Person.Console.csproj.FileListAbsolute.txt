@@ -1,0 +1,8 @@
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.Console\bin\Debug\Company.Person.Console.exe.config
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.Console\bin\Debug\Company.Person.Console.exe
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.Console\bin\Debug\Company.Person.Console.pdb
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.Console\obj\Debug\Company.Person.Console.csprojResolveAssemblyReference.cache
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.Console\obj\Debug\Company.Person.Console.exe
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.Console\obj\Debug\Company.Person.Console.pdb
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.Console\bin\Debug\Company.Person.Shared.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.Console\bin\Debug\Company.Person.Shared.pdb

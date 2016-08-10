@@ -1,0 +1,7 @@
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\ClassLibrary2\bin\Debug\Company.Person.BLL.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\ClassLibrary2\bin\Debug\Company.Person.BLL.pdb
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\ClassLibrary2\bin\Debug\Company.Person.Shared.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\ClassLibrary2\bin\Debug\Company.Person.Shared.pdb
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\ClassLibrary2\obj\Debug\Company.Person.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\ClassLibrary2\obj\Debug\Company.Person.BLL.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\ClassLibrary2\obj\Debug\Company.Person.BLL.pdb

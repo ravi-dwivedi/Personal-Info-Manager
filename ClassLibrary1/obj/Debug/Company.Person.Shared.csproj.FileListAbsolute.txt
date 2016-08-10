@@ -1,0 +1,4 @@
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\ClassLibrary1\bin\Debug\Company.Person.Shared.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\ClassLibrary1\bin\Debug\Company.Person.Shared.pdb
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\ClassLibrary1\obj\Debug\Company.Person.Shared.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\ClassLibrary1\obj\Debug\Company.Person.Shared.pdb

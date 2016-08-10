@@ -1,0 +1,8 @@
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.ConnectedDAL\bin\Debug\Company.Person.ConnectedDAL.dll
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.ConnectedDAL\bin\Debug\Company.Person.ConnectedDAL.pdb
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.ConnectedDAL\obj\Debug\Company.Person.ConnectedDAL.csprojResolveAssemblyReference.cache
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.ConnectedDAL\obj\Debug\Company.Person.ConnectedDAL.dll
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.ConnectedDAL\obj\Debug\Company.Person.ConnectedDAL.pdb
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.ConnectedDAL\bin\Debug\Company.Person.Shared.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.ConnectedDAL\bin\Debug\Company.Person.Shared.pdb
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\company.Person\Company.Person.ConnectedDAL\bin\Debug\Company.Person.ConnectedDAL.dll.config
